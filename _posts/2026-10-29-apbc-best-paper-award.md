@@ -1,5 +1,5 @@
 ---
-title: Uncertainty aware integration of DMI with genome scale metabolic modeling wins the APBC 2026 Best Paper Award
+title: APBC 2026 Best Paper Award - Uncertainty aware integration of DMI with genome scale metabolic modeling 
 authors:
 - lukas
 ---
