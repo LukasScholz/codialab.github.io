@@ -1,5 +1,5 @@
 ---
-title: APBC 2026 Best Paper Award - Uncertainty aware integration of DMI with genome scale metabolic modeling 
+title: Tin Pang receives APBC 2026 Best Paper Award  
 authors:
 - lukas
 ---
